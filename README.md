@@ -18,7 +18,7 @@
 - GitHubについてのエレベーターピッチ
 - 環境構築
 - 主要な機能の使い方
-  - バージョン管理をしてみよう（status, checkout, log, add, commit, push, pull）
+  - Gitでバージョン管理をしてみよう（status, checkout, log, add, commit, push, pull）
   - Issueを理解しよう
   - Pull Requestをしてみよう
 - 仕事をスムーズにすすめるための機能
