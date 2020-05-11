@@ -22,8 +22,8 @@
   - コラム: GitHubとGitの関係は？
 - 主要な機能の使い方
   - Gitでバージョン管理をしてみよう（status, checkout, log, add, commit, push, pull）
-  - Issueを理解しよう
-  - Pull Requestをしてみよう
+  - :octocat: GitHubでIssueを立ててみよう
+  - :octocat: GitHubでPull Requestをしてみよう
 - 仕事をスムーズにすすめるための機能
   - ブランチ
   - fork
