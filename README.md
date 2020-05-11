@@ -16,7 +16,10 @@
 
 ## 執筆項目
 - GitHubについてのエレベーターピッチ
-- 環境構築
+- GitHubとGitの環境構築
+  - GitHub
+  - Git
+  - コラム: GitHubとGitの関係は？
 - 主要な機能の使い方
   - Gitでバージョン管理をしてみよう（status, checkout, log, add, commit, push, pull）
   - Issueを理解しよう
