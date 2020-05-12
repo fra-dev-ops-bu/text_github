@@ -32,7 +32,12 @@
 - 共同執筆を通して、基本的な開発フローを体験できる:star_struck:
 
 セミナーが終わる頃には、あなたが持つ仕事のすすめ方についての概念は大きく変わっているはずです。
-さぁ、さっそく執筆に加わってください！ :point_right: [![Gitter](https://badges.gitter.im/fra-dev-ops-bu/community.svg)](https://gitter.im/fra-dev-ops-bu/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+さぁ、さっそく執筆に加わってください！ :point_down:
+|  | 募集締切 |
+----|---- 
+| [第1期](https://github.com/fra-dev-ops-bu/githubinar_github/issues/6) | 未定 |
+| 第2期 | :construction: |
+
 
 ## 執筆項目
 - GitHubについてのエレベーターピッチ
