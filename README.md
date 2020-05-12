@@ -53,26 +53,26 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# 水研職員のためのGitHub学習の手引き
-## GitHubを5秒で表現すると？
-## 環境を構築しよう
-  - GitHub
-  - Git
-  - コラム: GitHubとGitの関係は？
-## 絶対にハズせない三大機能
-  - Gitでバージョン管理をしてみよう（status, checkout, log, add, commit, push, pull）
-  - :octocat: GitHubでIssueを立ててみよう
-  - :octocat: GitHubでPull Requestをしてみよう
-## 仕事をスムーズにすすめるための補助機能
+<h1> 『水研職員のためのGitHub学習の手引き』</h1>
+# GitHubを5秒で表現すると？
+# 絶対にハズせない三大機能
+  - バージョン管理をしてみよう
+  - Issueを立ててみよう
+  - Pull Requestをしてみよう
+# 仕事をスムーズにすすめるための補助機能
   - ブランチ
   - fork
   - merge
   - Issue駆動開発
   - History
   - Blame
-## 水研業務のコンテキストから見たGitHub
-## 感想
-## Appendix
+# 自分のマシンで編集してみよう
+  - Gitの環境構築
+  - クリックでやっていたことをコマンドでやってみよう
+  - コラム: GitHubとGitの関係は？ 
+# 水研業務のコンテキストから見たGitHub
+# 感想
+# Appendix
   - 参考サイト
   - さらなる学びのために
 
