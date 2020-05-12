@@ -47,30 +47,30 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## 執筆項目
-- GitHubについてのエレベーターピッチ
-- GitHubとGitの環境構築
+# 水研職員のためのGitHub学習の手引き
+## GitHubを5秒で表現すると？
+## 環境を構築しよう
   - GitHub
   - Git
   - コラム: GitHubとGitの関係は？
-- 主要な機能の使い方
+## 絶対にハズせない三大機能
   - Gitでバージョン管理をしてみよう（status, checkout, log, add, commit, push, pull）
   - :octocat: GitHubでIssueを立ててみよう
   - :octocat: GitHubでPull Requestをしてみよう
-- 仕事をスムーズにすすめるための機能
+## 仕事をスムーズにすすめるための補助機能
   - ブランチ
   - fork
   - merge
   - Issue駆動開発
   - History
   - Blame
-- 水研業務のコンテキストから見たGitHub
-- 感想
-- Appendix
+## 水研業務のコンテキストから見たGitHub
+## 感想
+## Appendix
   - 参考サイト
   - さらなる学びのために
 
-## 学ばないこと
+**学ばないこと**
 このGitHubinarでは、GitHubの習熟に集中します。
 したがって、以下に挙げるGitのコマンドは学びません:
 - git reset
