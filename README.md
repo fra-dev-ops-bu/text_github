@@ -45,5 +45,5 @@
 - git rebase
 - git stash
 
-上に挙げたコマンドはプロジェクト進行の助けとなりますので、
+ただし、これらのGitコマンドは日常業務の助けとなりますので、
 興味のある方は [GitHubinar of Git](https://github.com/fra-dev-ops-bu/githubinar_git)にご参加ください。
