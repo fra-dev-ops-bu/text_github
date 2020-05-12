@@ -52,8 +52,7 @@
 - [Appendix](#appendix)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# 『:fish:水研職員のためのGitHub学習の手引き』
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/14845847/81747932-f52bd900-94e3-11ea-8189-39aede3562f2.png">
 
 # GitHubを5秒で表現すると？
 # 絶対にハズせない三大機能
