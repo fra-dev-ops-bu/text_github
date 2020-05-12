@@ -38,6 +38,8 @@
 | [第1期](https://github.com/fra-dev-ops-bu/githubinar_github/issues/6) | 未定 |
 | 第2期 | :construction: |
 
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 ## 執筆項目
 - GitHubについてのエレベーターピッチ
