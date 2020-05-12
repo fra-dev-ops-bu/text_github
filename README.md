@@ -24,11 +24,12 @@
 
 :man_dancing: <大丈夫。基礎は運営が説明します
 
-このセミナーが、:octocat:GitHubを使った共同開発（参考: [GitHubinar](https://scrapbox.io/fra-dev-ops-bu/GitHubinar)）の形をとっているのには訳があります:
+このセミナーが、:octocat:GitHubを使った共同開発（参考: [GitHubinar](https://scrapbox.io/fra-dev-ops-bu/GitHubinar)）
+の形をとっているのにはワケがあります:
 
-- 実際に成果物に貢献しながら学ぶので、自分ごととして取り組める
-- 自身の言葉で言い換えることによって理解が深まる
-- 共同執筆を通して、基本的な開発フローを体験できる
+- 実際に成果物に貢献しながら学ぶので、自分ごととして取り組める:slightly_smiling_face:
+- 自身の言葉で言い換えることによって理解が深まる:grin:
+- 共同執筆を通して、基本的な開発フローを体験できる:star_struck:
 
 セミナーが終わる頃には、あなたが持つ仕事のすすめ方についての概念は大きく変わっているはずです。
 さぁ、さっそく執筆に加わってください！ :point_right: [![Gitter](https://badges.gitter.im/fra-dev-ops-bu/community.svg)](https://gitter.im/fra-dev-ops-bu/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
