@@ -47,6 +47,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <h1> 『水研職員のためのGitHub学習の手引き』</h1>
+
 # GitHubを5秒で表現すると？
 # 絶対にハズせない三大機能
   - バージョン管理をしてみよう
