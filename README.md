@@ -1,4 +1,8 @@
 [![Gitter](https://badges.gitter.im/fra-dev-ops-bu/community.svg)](https://gitter.im/fra-dev-ops-bu/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![GitHub contributors](https://img.shields.io/github/contributors/fra-dev-ops-bu/githubinar_github.svg)](https://GitHub.com/fra-dev-ops-bu/githubinar_github/graphs/contributors/)
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/fra-dev-ops-bu/githubinar_github.svg)](http://isitmaintained.com/project/fra-dev-ops-bu/githubinar_github "Average time to resolve an issue")
+[![Percentage of issues still open](http://isitmaintained.com/badge/open/fra-dev-ops-bu/githubinar_github.svg)](http://isitmaintained.com/project/fra-dev-ops-bu/githubinar_github "Percentage of issues still open")
+
 
 # GitHubinar of GitHub
 
