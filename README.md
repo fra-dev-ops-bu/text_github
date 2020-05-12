@@ -53,7 +53,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-<h1> 『水研職員のためのGitHub学習の手引き』</h1>
+# 『:fish:水研職員のためのGitHub学習の手引き:octocat:』
 
 # GitHubを5秒で表現すると？
 # 絶対にハズせない三大機能
