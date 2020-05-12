@@ -38,8 +38,14 @@
 | [第1期](https://github.com/fra-dev-ops-bu/githubinar_github/issues/6) | 未定 |
 | 第2期 | :construction: |
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [執筆項目](#%E5%9F%B7%E7%AD%86%E9%A0%85%E7%9B%AE)
+- [学ばないこと](#%E5%AD%A6%E3%81%B0%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 執筆項目
 - GitHubについてのエレベーターピッチ
