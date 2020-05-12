@@ -24,7 +24,7 @@
 
 :man_dancing: <大丈夫。基礎は運営が説明します
 
-このセミナーが、:octocat:GitHubを使った共同開発（参考: [GitHubinar](https://github.com/fra-dev-ops-bu/githubinar_git)）の形をとっているのには意味があります:
+このセミナーが、:octocat:GitHubを使った共同開発（参考: [GitHubinar](https://scrapbox.io/fra-dev-ops-bu/GitHubinar)）の形をとっているのには訳があります:
 
 - 実際に成果物に貢献しながら学ぶので、自分ごととして取り組める
 - 自身の言葉で言い換えることによって理解が深まる
