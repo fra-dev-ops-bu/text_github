@@ -6,8 +6,22 @@
 
 # :fish: 水研職員のためのGitHub学習の手引き
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [はじめに](#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)
+  - [コンセプト](#%E3%82%B3%E3%83%B3%E3%82%BB%E3%83%97%E3%83%88)
+  - [学ばないこと](#%E5%AD%A6%E3%81%B0%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8)
+- [GitHubを5秒で表現すると？](#github%E3%82%925%E7%A7%92%E3%81%A7%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B%E3%81%A8)
+- [絶対にハズせない三大機能](#%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%83%8F%E3%82%BA%E3%81%9B%E3%81%AA%E3%81%84%E4%B8%89%E5%A4%A7%E6%A9%9F%E8%83%BD)
+- [仕事をスムーズにすすめるための補助機能](#%E4%BB%95%E4%BA%8B%E3%82%92%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%BA%E3%81%AB%E3%81%99%E3%81%99%E3%82%81%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%A3%9C%E5%8A%A9%E6%A9%9F%E8%83%BD)
+- [自分のマシンで編集してみよう](#%E8%87%AA%E5%88%86%E3%81%AE%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%A7%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86)
+- [水研業務のコンテキストから見たGitHub](#%E6%B0%B4%E7%A0%94%E6%A5%AD%E5%8B%99%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9Fgithub)
+- [読者の感想](#%E8%AA%AD%E8%80%85%E3%81%AE%E6%84%9F%E6%83%B3)
+- [Appendix](#appendix)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## はじめに
 
