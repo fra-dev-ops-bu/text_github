@@ -6,5 +6,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: technote-space/toc-generator@v2
-        with:
-          TOC_TITLE: '## 執筆項目'

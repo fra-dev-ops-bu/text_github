@@ -4,84 +4,62 @@
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/fra-dev-ops-bu/githubinar_github.svg)](http://isitmaintained.com/project/fra-dev-ops-bu/githubinar_github "Percentage of issues still open")
 
 
-# GitHubinar of GitHub
+# :fish: 水研職員のためのGitHub学習の手引き
 
-## コンセプト
+<!-- START doctoc -->
+<!-- END doctoc -->
+
+## はじめに
+
+### コンセプト
 :tada: さぁ、:octocat:GitHubを学びましょう！ :tada:
 
 ただし、講師から習うのではありません :no_good:
+学習の手引きを読み、不明点は[Issue](https://github.com/fra-dev-ops-bu/githubinar_github/issues/new)として運営に投げてみましょう。
+[Pull Request](https://github.com/fra-dev-ops-bu/githubinar_github/compare)による変更の提案も大歓迎てす。
+この学びかた自体がもはや共同開発です。
 
-学習の手引きを共同開発（執筆）しながら学んでみましょう。
-他の人がわかりやすいように説明する過程で、自ずとあなた自身の理解度も深まるはずです。
+> 「ここまで読んだだけで既に知らない用語がある...」> :cry:
+
+:man_dancing: <大丈夫。下の方で解説されているはずです。解説に不備があったら、[ここ](https://github.com/fra-dev-ops-bu/githubinar_github/issues/new)から教えてください。
+
+### 学ばないこと
+
+ここでは、GitHubの使い方に集中するため、まずブラウザ上でGitHubを操作することからはじめます。
+途中から、Gitコマンドも登場しますが、
+最低限で済むように工夫してあります<sup>[1](#gitcommand)</sup>
 
 
-> 「ただでさえ忙しいのに、共同執筆なんて絶対ムリ！」> :exploding_head: 
-
-:man_dancing: <大丈夫。運営がタスク量を調整します
 
 
-> 「GitHubについて何も知らないし、調べてみても全く理解できない...」> :cry:
+そもそも、GitHubとGitはどのような関係にあるのでしょうか。
+これを理解するには、GitHubが車、Gitをエンジンに例えるとよいでしょう。
+エンジンを意識せずとも、車を運転することはできます。
+もちろん、Gitの強力なコマンドたちは、日常業務の大きな助けとなります。
+興味のある方は [GitHubinar of Git](https://github.com/fra-dev-ops-bu/githubinar_git)にご参加ください。
 
-:man_dancing: <大丈夫。基礎は運営が説明します
+<hr>
 
-このセミナーが、:octocat:GitHubを使った共同開発（参考: [GitHubinar](https://scrapbox.io/fra-dev-ops-bu/GitHubinar)）
-の形をとっているのにはワケがあります:
-
-- 実際に成果物に貢献しながら学ぶので、自分ごととして取り組める:slightly_smiling_face:
-- 自身の言葉で言い換えることによって理解が深まる:grin:
-- 共同執筆を通して、基本的な開発フローを体験できる:star_struck:
-
-セミナーが終わる頃には、あなたが持つ仕事のすすめ方についての概念は大きく変わっているはずです。
-さぁ、さっそく執筆に加わってください！ :point_down:
-|  | 募集締切 |
-----|---- 
-| [第1期](https://github.com/fra-dev-ops-bu/githubinar_github/issues/6) | 未定 |
-| 第2期 | :construction: |
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## 執筆項目
-
-- [GitHubを5秒で表現すると？](#github%E3%82%925%E7%A7%92%E3%81%A7%E8%A1%A8%E7%8F%BE%E3%81%99%E3%82%8B%E3%81%A8)
-- [絶対にハズせない三大機能](#%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%83%8F%E3%82%BA%E3%81%9B%E3%81%AA%E3%81%84%E4%B8%89%E5%A4%A7%E6%A9%9F%E8%83%BD)
-- [仕事をスムーズにすすめるための補助機能](#%E4%BB%95%E4%BA%8B%E3%82%92%E3%82%B9%E3%83%A0%E3%83%BC%E3%82%BA%E3%81%AB%E3%81%99%E3%81%99%E3%82%81%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E8%A3%9C%E5%8A%A9%E6%A9%9F%E8%83%BD)
-- [自分のマシンで編集してみよう](#%E8%87%AA%E5%88%86%E3%81%AE%E3%83%9E%E3%82%B7%E3%83%B3%E3%81%A7%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%A6%E3%81%BF%E3%82%88%E3%81%86)
-- [水研業務のコンテキストから見たGitHub](#%E6%B0%B4%E7%A0%94%E6%A5%AD%E5%8B%99%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88%E3%81%8B%E3%82%89%E8%A6%8B%E3%81%9Fgithub)
-- [感想](#%E6%84%9F%E6%83%B3)
-- [Appendix](#appendix)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/14845847/81747932-f52bd900-94e3-11ea-8189-39aede3562f2.png">
-
-# GitHubを5秒で表現すると？
-# 絶対にハズせない三大機能
+## GitHubを5秒で表現すると？
+## 絶対にハズせない三大機能
   - バージョン管理をしてみよう
   - Issueを立ててみよう
   - Pull Requestをしてみよう
-# 仕事をスムーズにすすめるための補助機能
+## 仕事をスムーズにすすめるための補助機能
   - ブランチ
   - fork
   - merge
   - Issue駆動開発
   - History
   - Blame
-# 自分のマシンで編集してみよう
+## 自分のマシンで編集してみよう
   - Gitの環境構築
   - クリックでやっていたことをコマンドでやってみよう
   - コラム: GitHubとGitの関係は？ 
-# 水研業務のコンテキストから見たGitHub
-# 感想
-# Appendix
+## 水研業務のコンテキストから見たGitHub
+## 読者の感想
+## Appendix
   - 参考サイト
   - さらなる学びのために
 
-**学ばないこと**
-このGitHubinarでは、GitHubの習熟に集中します。
-したがって、以下に挙げるGitのコマンドは学びません:
-- git reset
-- git revert
-- git rebase
-- git stash
-
-ただし、これらのGitコマンドは日常業務の助けとなりますので、
-興味のある方は [GitHubinar of Git](https://github.com/fra-dev-ops-bu/githubinar_git)にご参加ください。
+<a name="gitcommand">1</a>: git (reset|revert|rebase|stash|cherry-pick|bisect)は割愛します
