@@ -162,7 +162,7 @@ GitHub上でコミットするのは簡単です:
 
 ここは、[ファイルの変更履歴](https://github.com/fra-dev-ops-bu/githubinar_github/commits/master/README.md)を一覧したときに表示されますので、
 なるべくきれいに書く必要があります。
-プロジェクトの方針によって決めて構いませんが、一応の慣習があります（参考: https://chris.beams.io/posts/git-commit/）:
+プロジェクトの方針によって決めて構いませんが、一応の慣習があります（参考: https://chris.beams.io/posts/git-commit/ ）:
 
 - 英語で
 - 頭文字は現在形の動詞で、大文字はじめる
@@ -171,7 +171,7 @@ GitHub上でコミットするのは簡単です:
 
 一覧の状態でつらつらと読めるように「要するに何をしたのか」を書いてください。
 具体的な変更内容は、ファイルの変更差分を見ればわかりますので書く必要はありません。
-余談ですが、コミットメッセージを読まなくとも、変更内容の種類を大まかに伝えるための方法として、絵文字の使用も推奨されています（参考: https://medium.com/@sa.nitawaki/enjoy-your-commit-with-gitmoji-c-1eca5fe35143。
+余談ですが、コミットメッセージを読まなくとも、変更内容の種類を大まかに伝えるための方法として、絵文字の使用も推奨されています（参考: https://medium.com/@sa.nitawaki/enjoy-your-commit-with-gitmoji-c-1eca5fe35143 ）。
 
 #### 詳細の書き方
 
@@ -187,7 +187,7 @@ Issueが自動でCloseされます。
 - `Fix #123`
 - `Close #123`
 
-Issue側から見ると、その課題が「どのように」解決されたかが明確になります（例えばhttps://github.com/fra-dev-ops-bu/githubinar_github/issues/4）。
+Issue側から見ると、その課題が「どのように」解決されたかが明確になります（例えばhttps://github.com/fra-dev-ops-bu/githubinar_github/issues/4 ）。
 これは、手動でIssueを閉じる手間を省略するためではなく、ナレッジベースを育てるために有効な方法です。
 
 #### ブランチを切ってみよう
