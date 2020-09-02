@@ -26,6 +26,10 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+GitHubとは、形式知の力で共同作業を支援するサービスです。
+主にOSS（オープンソースソフトウェア）開発の場で、数百人規模のコラボレーションを支えています。
+ソフトウェア開発者が使うものと思われがちですが、GitHubはすべての知的労働者の共同作業に有効です。
+
 ## [第1章 はじめに](chap1.md)
 
 ## 第3章 絶対にハズせない三大機能
