@@ -6,6 +6,11 @@
 
 # :fish: 水研職員のためのGitHub学習の手引き
 
+GitHubとは、形式知の力で共同作業を支援するサービスです。
+主にOSS（オープンソースソフトウェア）開発の場で、数百人規模のコラボレーションを支えています。
+ソフトウェア開発者が使うものと思われがちですが、GitHubはすべての知的労働者の共同作業に有効です。
+
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -25,10 +30,6 @@
 - [Appendix](#appendix)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-GitHubとは、形式知の力で共同作業を支援するサービスです。
-主にOSS（オープンソースソフトウェア）開発の場で、数百人規模のコラボレーションを支えています。
-ソフトウェア開発者が使うものと思われがちですが、GitHubはすべての知的労働者の共同作業に有効です。
 
 ## [第1章 はじめに](chap1.md)
 
