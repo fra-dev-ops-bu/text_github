@@ -30,7 +30,7 @@
 
 ## 第2章 GitHubを5秒で表現すると？
 
-形式知の力で共同作業を支援するサービスです
+
 
 ## 第3章 絶対にハズせない三大機能
 
@@ -243,7 +243,7 @@ Pull Requestを出すのは簡単です。
 ### 読者の感想
 ### さらなる学びのために
 
-<a name="gitcommand">1</a>: git (reset|revert|rebase|stash|cherry-pick|bisect)は割愛します
+
 
 <a name="bigthree">2</a>: 車の運転でいえば「アクセル」「ブレーキ」「ハンドル操作」といったところでしょうか
 

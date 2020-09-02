@@ -10,15 +10,24 @@
 
 :man_dancing: <大丈夫。下の方で解説されているはずです。解説に不備があったら、[ここ](https://github.com/fra-dev-ops-bu/githubinar_github/issues/new)から教えてください。
 
+### GitHub とは
+
+GitHubとは、形式知の力で共同作業を支援するサービスです。
+主な活躍の場は、数百人規模がコラボレーションするOSS（オープンソースソフトウェア）業界ですが、
+GitHubは開発者のみならず、共同作業をするすべての知的労働者に必要です。
+
 ### 学ばないこと
 
 ここでは、GitHubの使い方に集中するため、まずブラウザ上でGitHubを操作することからはじめます。
 ターミナルでのコマンド入力は、第5章『自分のマシンで作業してみよう』までは出てきません<sup>[1](#gitcommand)</sup>。
 まずはじっくり、GitHub の概念を理解することに集中してください。
 
+### Gitとの関係
 
 そもそも、GitHubとGitはどのような関係にあるのでしょうか。
 これを理解するには、GitHubが車、Gitをエンジンに例えるとよいでしょう。
 エンジンを意識せずとも、車を運転することはできます。
 もちろん、Gitの強力なコマンドたちは、日常業務の大きな助けとなります。
 興味のある方は [GitHubinar of Git](https://github.com/fra-dev-ops-bu/githubinar_git)にご参加ください。
+
+<a name="gitcommand">1</a>: git (reset|revert|rebase|stash|cherry-pick|bisect)は割愛します
