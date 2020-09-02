@@ -13,7 +13,7 @@
 ### 学ばないこと
 
 ここでは、GitHubの使い方に集中するため、まずブラウザ上でGitHubを操作することからはじめます。
-ターミナルでのコマンド入力は、第5章『自分のマシンで作業してみよう』までは出てきません<sup>[1](#gitcommand)</sup>。
+ターミナルでのコマンド入力は、第5章『自分のマシンで作業してみよう』までは出てきません。
 まずはじっくり、GitHub の概念を理解することに集中してください。
 
 ### Gitとの関係
@@ -23,5 +23,3 @@
 エンジンを意識せずとも、車を運転することはできます。
 もちろん、Gitの強力なコマンドたちは、日常業務の大きな助けとなります。
 興味のある方は [GitHubinar of Git](https://github.com/fra-dev-ops-bu/text_git)をご覧ください。
-
-<a name="gitcommand">1</a>: git (reset|revert|rebase|stash|cherry-pick|bisect)は割愛します
